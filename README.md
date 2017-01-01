@@ -1,0 +1,1 @@
+# example-static-web-with-javascript
